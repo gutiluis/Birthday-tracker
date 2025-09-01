@@ -9,9 +9,6 @@ Users can:
 - Quit the app
 
 ### TO DO
-- `display_age()` in `functions.py`
-- `display_age_differences()` in `functions.py`
-- `upcoming_birthdays()` in `functions.py`
 - Create a helper function that determines the age, which both `display_age()` and `upcoming_birthdays()` can use.
 - Create a helper function that takes the date string and returns a datetime object (all 3 functions can use this!)
 - List the upcoming birthdays chronologically
