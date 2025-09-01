@@ -15,6 +15,6 @@ Users can:
 - Try to handle plural cases! Create a function in `utils.py` that will determine whether we print plural words or singular words. For example, "0 months", "1 month", "2 months".
 - Handle upcoming birthdays for the following year
 ---
--python3 -m venv venv
--source venv/bin/activate
--pip install dateutil
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
