@@ -10,7 +10,7 @@ Birthday Tracker
 
 ----
 
-## Features:
+### Features:
 
 - See upcoming Birthdays, which are birthdays within the next 90 days
 - Check someone's age by entering their ID as prompted
@@ -22,6 +22,17 @@ Birthday Tracker
 ###
 
 ----
+
 - python3 -m venv venv
 - source venv/bin/activate
 - pip install -r requirements.txt
+
+----
+
+###
+
+---
+
+###
+
+Clone Repository:
