@@ -1,14 +1,14 @@
-Birthday Tracker
-
-----
-
 ## How it works:
 
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+- python3 filename.py
+
+Birthday Tracker
 - Loads data from birthdays.csv, and users get presented with a display menu.
 
 ###
-
-----
 
 ### Features:
 
@@ -17,22 +17,16 @@ Birthday Tracker
 - Compare two people's ages by entering their IDs as prompted
 - Quit the app
 
-----
+## Technologies Used:
+
+- Python
 
 ###
 
-----
-
-- python3 -m venv venv
-- source venv/bin/activate
-- pip install -r requirements.txt
-
-----
-
-###
+## What I Learned:
 
 ---
 
 ###
 
-Clone Repository:
+Clone Repo:
